@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Phân tích cảm xúc tiếng Việt (Vietnamese Sentiment Analysis)
 
 Dự án phân loại cảm xúc văn bản tiếng Việt sử dụng các mô hình học máy và học sâu.
@@ -44,3 +45,6 @@ Dự án phân loại cảm xúc văn bản tiếng Việt sử dụng các mô 
   - Trực quan hóa: matplotlib, seaborn
 
 ## Dự án được thực hiện bởi nhóm có 3 thành viên.
+=======
+# Vietnamese-Sentiment-Analysis
+>>>>>>> 4d2f9ee6bd6160cee21df1b2bedecde91a5b5617
