@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Phân tích cảm xúc tiếng Việt (Vietnamese Sentiment Analysis)
 
 Dự án phân loại cảm xúc văn bản tiếng Việt sử dụng các mô hình học máy và học sâu.
